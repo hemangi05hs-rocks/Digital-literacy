@@ -1,2 +1,16 @@
 # Digital-literacy
-This repository contains my Digital Literacy Project for CSE0001 at VIT Bhopal University. It covers key skills like online safety, digital tools, professional communication, and cyber awareness through practical tasks and reflections.
+## 👩‍💻 Author
+Hemangi Singh  
+B.Tech CSE (1st Year)  
+VIT Bhopal University  
+
+## 📂 Project Structure
+- task-1-presentation/
+- task-2-portfolio/
+- task-3-platforms/
+- task-4-email-etiquette/
+- task-5-cybercrime/
+- report/
+
+## 🔗 Google Form
+https://forms.gle/sgBBXHDM3PoXv42n8
